@@ -1,0 +1,194 @@
+ASCENSION VIA CHRISTI HEALTH — OPERATIONAL & HR POLICIES
+Document ID: AVC-OPS-003 | Version: 2.8 | Last Updated: December 2024
+Department: Human Resources & Operations
+
+================================================================================
+EMPLOYEE BENEFITS OVERVIEW — FY2025
+================================================================================
+
+HEALTH INSURANCE:
+Ascension offers three medical plan tiers through BlueCross BlueShield of Kansas City:
+
+Plan A — High Deductible Health Plan (HDHP) with HSA:
+- Annual Deductible: $1,500 individual / $3,000 family
+- Out-of-Pocket Maximum: $4,000 individual / $8,000 family
+- HSA Contribution from Ascension: $750 individual / $1,500 family annually
+- In-network coinsurance after deductible: 80/20
+
+Plan B — PPO Standard:
+- Annual Deductible: $500 individual / $1,000 family
+- Out-of-Pocket Maximum: $3,500 individual / $7,000 family
+- Primary Care Copay: $25 | Specialist Copay: $50
+- Prescription: Generic $10 / Brand $35 / Specialty 20% coinsurance
+
+Plan C — PPO Premier:
+- Annual Deductible: $0 individual / $0 family
+- Out-of-Pocket Maximum: $2,500 individual / $5,000 family
+- Primary Care Copay: $15 | Specialist Copay: $30
+- Prescription: Generic $5 / Brand $25 / Specialty $75
+
+DENTAL — MetLife:
+- Basic: Preventive 100%, Basic Restorative 80%, Major 50%, Annual Max $1,500
+- Enhanced: Preventive 100%, Basic 90%, Major 60%, Orthodontia 50% (lifetime max $2,000)
+
+VISION — VSP:
+- Annual eye exam: $10 copay
+- Frames/lenses: $175 allowance per 12 months
+- Contact lens allowance: $175 per 12 months
+
+RETIREMENT — 403(b) Plan:
+- Ascension match: 100% of first 3% + 50% of next 2% of eligible compensation
+- Vesting: 3-year graded (0% / 33% / 67% / 100%)
+- Roth 403(b) option available
+- Financial advisor consultations: 3 free sessions per year via Fidelity
+
+================================================================================
+PAID TIME OFF (PTO) POLICY
+================================================================================
+
+ACCRUAL RATES (Full-Time Employees):
+Years of Service  |  Hours Accrued per Pay Period  |  Annual Total
+0–2 years         |  4.62 hours                    |  120 hours (15 days)
+3–5 years         |  5.54 hours                    |  144 hours (18 days)
+6–10 years        |  6.46 hours                    |  168 hours (21 days)
+11–15 years       |  7.38 hours                    |  192 hours (24 days)
+16+ years         |  8.31 hours                    |  216 hours (27 days)
+
+Part-time (20–32 hrs/week): Accrues at 50% of full-time rate
+Per diem / PRN: Not eligible for PTO accrual
+
+PTO CASH-OUT:
+- Employees may cash out up to 40 hours of accrued PTO once per calendar year
+- Request submitted through Workday by December 1 for December 15 payout
+- Maximum PTO balance: 400 hours (accrual stops at cap)
+
+LEAVES OF ABSENCE:
+- FMLA: Up to 12 weeks unpaid per year (run concurrent with PTO if applicable)
+- Parental Leave: 6 weeks paid (birth, adoption, foster placement)
+- Bereavement: 3 days (immediate family); 1 day (extended family)
+- Military Leave: Per USERRA; difference in pay maintained for first 30 days
+
+================================================================================
+CREDENTIALING & PRIVILEGING POLICY
+================================================================================
+
+POLICY ID: AVC-MED-STAFF-007 | Effective: September 2024
+
+INITIAL CREDENTIALING PROCESS:
+Required Documents for All Applicants:
+1. Completed AVC Medical Staff Application (online via symplr system)
+2. Current state medical license (verified via NLMS primary source)
+3. DEA certificate with Kansas / Missouri endorsement as applicable
+4. Board certification (required within 5 years of completing residency)
+5. Current BLS + ACLS certificates (PALS for pediatric privileges)
+6. Malpractice coverage verification (minimum $1M/$3M; tail required)
+7. Training certificates / diplomas (primary source verified)
+8. NPDB query results (self-query + AVC-initiated query)
+9. 5-year work history with explanation of all gaps > 30 days
+10. 3 peer references (must include current department chair)
+
+TIMELINE:
+- Application receipt to credentials committee review: 30 days
+- Credentials committee to Medical Executive Committee: 14 days
+- MEC to Board approval: 14 days
+- Total target: < 60 days from completed application
+
+ONGOING RE-CREDENTIALING: Every 2 years
+Criteria reviewed: Case volume, peer review flags, patient complaints, CME compliance,
+malpractice history, license and board certification currency
+
+================================================================================
+WORKPLACE VIOLENCE PREVENTION POLICY
+================================================================================
+
+POLICY ID: AVC-HR-018 | Effective: June 2024
+
+DEFINITION:
+Workplace violence includes physical assaults, threats, verbal abuse, stalking, or any behavior
+that creates a reasonable fear of harm in the workplace.
+
+REPORTING REQUIREMENTS:
+- Any incident of workplace violence MUST be reported immediately
+- Report to: Direct supervisor AND Security (ext. 5911) AND Risk Management
+- Document in Quantros Safety Event Reporting System within 24 hours
+- Law enforcement contacted for any physical assault or credible threat
+
+DE-ESCALATION TRAINING:
+- All patient-facing staff: Mandatory annual CPI (Crisis Prevention Intervention) training
+- ED, Behavioral Health, and ICU staff: Enhanced 8-hour CPI re-certification annually
+- Security team: Monthly scenario-based training
+
+PANIC BUTTON PROTOCOL:
+- Duress buttons located at every nursing station and registration desk
+- Press triggers: Security response (< 3 min), overhead "Staff Assist" announcement
+- Personal duress devices available for check-out from Security for high-risk patient assignments
+
+VISITOR MANAGEMENT:
+- All visitors screened at main entrances 24/7
+- Visitor badges required and color-coded by unit and date
+- Behavioral Health and Oncology: Visitor restrictions enforced by Security
+- No-visitor orders: Document in EMR and notify Security and Reception
+
+================================================================================
+PERFORMANCE REVIEW PROCESS
+================================================================================
+
+ANNUAL REVIEW CYCLE:
+- Self-assessment completed by employee: April 1
+- Manager assessment completed: April 15
+- Calibration meetings with HR Business Partner: April 22
+- Review conversations completed: May 1
+- Merit increases effective: June 1
+
+PERFORMANCE RATINGS:
+5 — Exceptional: Consistently exceeds all expectations; top 10% of peers
+4 — Exceeds Expectations: Regularly surpasses most goals
+3 — Meets Expectations: Fully competent; achieves all core goals
+2 — Development Needed: Partially meets expectations; improvement plan required
+1 — Does Not Meet Expectations: Fails to meet core job requirements; formal PIP initiated
+
+MERIT INCREASE GUIDELINES (FY2025):
+Rating 5: 5.0–6.0% increase
+Rating 4: 3.5–4.5% increase
+Rating 3: 2.0–3.0% increase
+Rating 2: 0–1.0% increase
+Rating 1: 0% increase (ineligible for merit)
+
+PROMOTION POLICY:
+- Internal posting required for minimum 5 business days before external posting
+- Internal candidates meeting minimum qualifications guaranteed an interview
+- Promotion increases: 8–12% above current salary (or to band minimum, whichever is greater)
+
+================================================================================
+HIPAA COMPLIANCE & DATA PRIVACY POLICY
+================================================================================
+
+POLICY ID: AVC-HIPAA-001 | Effective: January 2025 | Annual Review Required
+
+PROTECTED HEALTH INFORMATION (PHI):
+PHI includes any individually identifiable health information in any format (electronic, paper, oral)
+including: name, address, DOB, phone, SSN, medical record number, account numbers, photos,
+diagnosis, treatment, payment information.
+
+MINIMUM NECESSARY STANDARD:
+- Access only the PHI necessary to perform your job function
+- Do not access records of family members, coworkers, public figures, or yourself
+- All access is logged and audited; violations investigated within 5 business days
+
+PERMITTED USES WITHOUT PATIENT AUTHORIZATION:
+- Treatment: Care team members involved in patient's care
+- Payment: Billing and insurance functions
+- Healthcare Operations: Quality improvement, staff training, accreditation
+
+BREACH NOTIFICATION REQUIREMENTS:
+- Workforce member discovering potential breach: Report to Privacy Officer within 1 hour
+- Privacy Officer risk assessment: Completed within 24 hours
+- If breach confirmed: Affected individuals notified within 60 days
+- HHS OCR notification: Within 60 days (or annual report if < 500 individuals)
+- Media notification: Required if > 500 residents in a state affected
+
+SANCTIONS:
+Tier 1 (unintentional, no PHI exposure): Verbal warning + retraining
+Tier 2 (unintentional, limited PHI exposure): Written warning + retraining + monitoring
+Tier 3 (willful neglect / repeated): Suspension or termination + law enforcement referral
+Tier 4 (malicious access / sale of PHI): Immediate termination + criminal referral

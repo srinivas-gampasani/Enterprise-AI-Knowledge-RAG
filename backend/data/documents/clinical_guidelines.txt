@@ -1,0 +1,155 @@
+ASCENSION VIA CHRISTI HEALTH — CLINICAL GUIDELINES
+Document ID: AVC-CG-001 | Version: 3.2 | Last Updated: January 2025
+Department: Clinical Operations & Quality
+
+================================================================================
+SEPSIS MANAGEMENT PROTOCOL
+================================================================================
+
+DEFINITION:
+Sepsis is a life-threatening organ dysfunction caused by a dysregulated host response to infection.
+Septic shock is a subset of sepsis with circulatory and cellular/metabolic dysfunction associated
+with a higher risk of mortality.
+
+SCREENING CRITERIA (SIRS-based + qSOFA):
+- Temperature > 38.3°C or < 36°C
+- Heart Rate > 90 bpm
+- Respiratory Rate > 20 breaths/min or PaCO2 < 32 mmHg
+- WBC > 12,000 or < 4,000 cells/µL or > 10% bands
+- Altered mental status (GCS drop ≥ 2 points)
+- Systolic BP < 100 mmHg
+
+SEPSIS 3-HOUR BUNDLE (Must be completed within 3 hours of presentation):
+1. Measure lactate level — target < 2 mmol/L; if > 4 mmol/L, initiate shock protocol
+2. Obtain blood cultures BEFORE initiating antibiotics (minimum 2 sets)
+3. Administer broad-spectrum antibiotics (see Antibiotic Selection Guide below)
+4. Administer 30 mL/kg crystalloid for hypotension or lactate ≥ 4 mmol/L
+
+ANTIBIOTIC SELECTION:
+- Community-acquired: Piperacillin-tazobactam 4.5g IV q8h + Vancomycin 25mg/kg IV
+- Hospital-acquired / VAP: Meropenem 1g IV q8h + Vancomycin
+- Immunocompromised: Add Micafungin 100mg IV daily for fungal coverage
+- Penicillin allergy: Aztreonam 2g IV q8h + Metronidazole 500mg IV q8h
+
+VASOPRESSOR THRESHOLD:
+- Initiate Norepinephrine if MAP < 65 mmHg despite adequate fluid resuscitation
+- Target MAP ≥ 65 mmHg
+- Add Vasopressin 0.03 units/min if Norepinephrine dose > 0.25 mcg/kg/min
+- Hydrocortisone 200mg/day IV infusion for refractory septic shock
+
+MONITORING PARAMETERS:
+- Continuous pulse oximetry and cardiac monitoring
+- Lactate reassessment at 2 hours; repeat q6h until < 2 mmol/L
+- Urine output goal: > 0.5 mL/kg/hr
+- CVP monitoring if central line placed: target 8–12 mmHg
+
+================================================================================
+ACUTE MYOCARDIAL INFARCTION (STEMI) PROTOCOL
+================================================================================
+
+DOOR-TO-BALLOON TIME TARGET: < 90 minutes
+
+IMMEDIATE ACTIONS ON STEMI DIAGNOSIS:
+1. Activate Cath Lab via overhead page: "STEMI Alert, Cath Lab 1"
+2. Administer Aspirin 325mg PO (chew and swallow) immediately
+3. Administer Ticagrelor 180mg PO loading dose (preferred over Clopidogrel)
+4. Anticoagulation: Heparin 60 units/kg IV bolus (max 4,000 units) + 12 units/kg/hr infusion
+5. Obtain 12-lead ECG within 10 minutes of arrival
+6. Place large-bore IVs (x2), draw STAT labs: Troponin I, CMP, CBC, PT/INR, Type & Screen
+7. Supplemental O2 only if SpO2 < 90%
+
+CONTRAINDICATIONS TO FIBRINOLYSIS (if PCI unavailable):
+- Prior intracranial hemorrhage at any time
+- Ischemic stroke within 3 months
+- Active internal bleeding
+- Suspected aortic dissection
+- Significant closed-head trauma within 3 months
+
+POST-PCI CARE ORDERS:
+- Continue Aspirin 81mg PO daily indefinitely
+- Continue Ticagrelor 90mg PO BID for 12 months
+- Beta-blocker: Metoprolol succinate 25mg PO daily (titrate to HR 55–65)
+- ACE Inhibitor: Lisinopril 5mg PO daily (titrate to 40mg as tolerated)
+- Statin: Atorvastatin 80mg PO daily (high-intensity)
+- Cardiac Rehabilitation referral within 72 hours of discharge
+
+================================================================================
+FALL PREVENTION PROTOCOL
+================================================================================
+
+MORSE FALL SCALE SCORING:
+- History of falls (last 3 months): No=0, Yes=25
+- Secondary diagnosis: No=0, Yes=15
+- Ambulatory aid: None/bedrest=0, Crutches/cane=15, Furniture=30
+- IV or IV access: No=0, Yes=20
+- Gait: Normal/bedrest=0, Weak=10, Impaired=20
+- Mental status: Oriented=0, Forgetful/confused=15
+
+RISK CLASSIFICATION:
+- Low Risk: 0–24 → Standard safety measures
+- Moderate Risk: 25–44 → Implement yellow armband, yellow socks, fall risk sign
+- High Risk: ≥ 45 → All above + bed alarm, hourly rounding, move closer to nurses station
+
+INTERVENTIONS FOR HIGH-RISK PATIENTS:
+1. Yellow "FALL RISK" wristband applied immediately
+2. Bed alarm activated at all times
+3. Call light within reach; verify patient knows how to use
+4. Non-skid footwear provided
+5. Clear path to bathroom; night light activated
+6. Hourly safety rounding documented in EMR
+7. Notify physician if new fall or near-fall event
+8. Sitter order placed if patient is confused and ambulatory
+
+================================================================================
+MEDICATION RECONCILIATION POLICY
+================================================================================
+
+POLICY ID: AVC-MED-022 | Effective: March 2024
+
+DEFINITION:
+Medication reconciliation is the process of comparing a patient's medication orders to all
+medications the patient has been taking to avoid medication errors.
+
+REQUIRED RECONCILIATION POINTS:
+1. ADMISSION: Complete med rec within 4 hours of patient placement in unit
+2. TRANSFER: Prior to transfer between units; receiving nurse verifies within 1 hour
+3. DISCHARGE: Physician completes discharge med rec; pharmacist review required for patients
+   on ≥ 5 chronic medications or any high-alert medications
+
+HIGH-ALERT MEDICATIONS (Require double-check by two licensed nurses):
+- Insulin (all types and concentrations)
+- Heparin IV infusions
+- Concentrated electrolytes (KCl > 20 mEq, NaCl 3%, MgSO4 50%)
+- Chemotherapy agents
+- Neuromuscular blocking agents
+- Opioids: IV PCA, epidural infusions
+
+DOCUMENTATION IN EPIC:
+- Navigate to: Patient Chart → Medications → Reconciliation Workflow
+- Mark each home medication as: Continue / Hold / Discontinue / Changed
+- Add reason for any medication held or changed
+- Pharmacist must co-sign for high-alert medication changes
+
+================================================================================
+HAND HYGIENE COMPLIANCE POLICY
+================================================================================
+
+POLICY ID: AVC-IC-005 | Effective: January 2025
+
+THE 5 MOMENTS FOR HAND HYGIENE (WHO Standard):
+1. Before patient contact
+2. Before aseptic task
+3. After body fluid exposure risk
+4. After patient contact
+5. After contact with patient surroundings
+
+TECHNIQUE:
+- Alcohol-based hand rub (preferred): Apply 3mL, rub all surfaces for minimum 20 seconds
+- Soap and water (required for C. diff, norovirus, visible soiling): 40–60 seconds, rinse, dry
+- Jewelry: No rings, bracelets, or artificial nails permitted in patient care areas
+
+MONITORING:
+- Secret observer audits: minimum 50 observations per unit per month
+- Target compliance: ≥ 95% by unit
+- Results reported monthly at Unit Safety Huddle
+- Individual coaching for observed non-compliance (anonymous unless repeated)

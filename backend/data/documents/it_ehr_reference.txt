@@ -1,0 +1,148 @@
+ASCENSION VIA CHRISTI HEALTH — IT & EHR INTEGRATION REFERENCE
+Document ID: AVC-IT-004 | Version: 1.9 | Last Updated: January 2025
+Department: Health Informatics & IT
+
+================================================================================
+EPIC EMR QUICK REFERENCE GUIDE
+================================================================================
+
+LOGGING IN:
+- URL: https://avc-epic.ascension.org (internal network only)
+- Two-factor authentication required: Duo Security push to registered mobile device
+- Single Sign-On (SSO) via AVC network credentials
+- Session timeout: 15 minutes of inactivity (HIPAA requirement)
+
+KEY WORKFLOWS:
+
+Patient Chart Navigation:
+- Chart Review: All clinical documentation, results, imaging reports
+- Results Review: Labs, vitals, imaging — critical values highlighted in red
+- Notes: All provider documentation; cosignature workflows for residents/NPs
+- MAR (Medication Administration Record): Medication scanning, administration recording
+- Orders: CPOE — all orders placed electronically; paper orders not accepted except downtime
+
+Downtime Procedures:
+- Planned downtime: Announced 72 hours in advance via AVC Intranet
+- Unplanned downtime: Call IT Helpdesk ext. 4357 immediately
+- Downtime paper forms: Located in red "Downtime Binders" at each nursing station
+- All paper records scanned and entered into Epic within 4 hours of system restoration
+
+DOWNTIME CRITICAL ACCESS:
+- Pharmacy: Pharmacist maintains downtime medication list in Pyxis
+- Lab: Critical results called to nursing station directly
+- Radiology: Wet reads phoned; portable X-ray for ICU patients
+
+--------------------------------------------------------------------------------
+
+EPIC IN-BASKET MANAGEMENT:
+- Pool messages checked minimum every 2 hours during shift
+- Stat messages: Respond within 30 minutes
+- Routine messages: Respond within same business day
+- Patient portal messages: Respond within 2 business days
+- Abnormal result routing: Auto-routed to ordering provider; PA/NP cosigners notified
+
+--------------------------------------------------------------------------------
+
+SMART PHRASES (COMMONLY USED):
+.SEPSIS3 → Inserts Sepsis 3-Hour Bundle Documentation Template
+.DISCHARGE → Inserts Discharge Summary Template with all required elements
+.FALLRISK → Inserts Morse Fall Scale Assessment Template
+.SKINASSESS → Inserts Braden Scale Pressure Injury Risk Assessment
+.PAINASSESS → Inserts Pain Assessment including FLACC scale for non-verbal patients
+.COVIDSCREEN → Inserts COVID-19 Screening Questionnaire
+.CONSULT → Inserts Consultation Request Template
+
+================================================================================
+CYBERSECURITY & ACCEPTABLE USE POLICY
+================================================================================
+
+POLICY ID: AVC-IT-SEC-002 | Effective: October 2024
+
+ACCEPTABLE USE:
+- AVC systems and devices are for business purposes
+- Limited personal use permitted during break times (no gaming, streaming, shopping)
+- All activity on AVC systems is monitored and logged
+- No expectation of privacy on AVC-owned equipment or network
+
+PROHIBITED ACTIVITIES:
+- Downloading, installing, or running unauthorized software
+- Connecting personal storage devices (USB drives, external hard drives) without IT approval
+- Sharing passwords or accessing another employee's account (even with their permission)
+- Transmitting PHI via personal email, unencrypted messaging apps, or unencrypted email
+- Accessing AVC systems via public/unsecured WiFi without VPN
+
+PHI TRANSMISSION STANDARDS:
+- Approved secure email: avc-secure@ascension.org gateway (auto-encrypts PHI)
+- Approved secure messaging: TigerConnect (enterprise clinical communication platform)
+- Fax: Still permitted; use HIPAA-compliant fax cover sheet with confidentiality notice
+- SMS/personal messaging apps: PROHIBITED for any PHI
+
+PASSWORD REQUIREMENTS:
+- Minimum 12 characters
+- Must include: uppercase, lowercase, number, special character
+- Cannot reuse last 12 passwords
+- Maximum password age: 90 days
+- Account lockout: 5 failed attempts (call IT Helpdesk for unlock)
+
+PHISHING & SOCIAL ENGINEERING:
+- Report suspicious emails: Forward to phishing@ascension.org
+- Do not click links or open attachments in suspicious emails
+- IT will NEVER ask for your password via email, phone, or in person
+- Annual phishing simulation training; failure requires retraining within 48 hours
+
+================================================================================
+TELEHEALTH TECHNICAL STANDARDS
+================================================================================
+
+POLICY ID: AVC-TELE-003 | Effective: March 2024
+
+APPROVED TELEHEALTH PLATFORMS:
+- Primary: Amwell (integrated with Epic; preferred for scheduled visits)
+- Backup: Zoom for Healthcare (HIPAA BAA in place; for urgent or ad-hoc visits)
+- NOT approved: FaceTime, Skype, standard Zoom, Google Meet (no BAA)
+
+PROVIDER REQUIREMENTS:
+- Complete AVC Telehealth Orientation (3-hour CME credit course in HealthStream)
+- Test equipment and internet connection before each session
+- Minimum internet speed: 10 Mbps upload/download
+- Background: Neutral/professional; patient must see only provider (no other individuals in view)
+- Document session in Epic within 2 hours: Include video visit attestation statement
+
+PATIENT CONSENT:
+- Verbal consent for telehealth documented in Epic at start of each visit
+- Written consent required for: mental health sessions, procedures via telemedicine
+- Consent script: "I am documenting your consent to conduct this visit via telehealth..."
+
+TECHNICAL FAILURE PROTOCOL:
+If technology fails during a visit:
+1. Attempt reconnection once (wait 2 minutes)
+2. Switch to telephone if video cannot be restored
+3. Document: "Visit converted from telehealth video to telephone due to technical issues"
+4. Reschedule if clinical assessment requires video (visual inspection, wound care, etc.)
+
+================================================================================
+NETWORK INFRASTRUCTURE & CLINICAL SYSTEMS
+================================================================================
+
+NETWORK SEGMENTS:
+- Clinical Network (VLAN 10): EMR, medical devices, PACS — isolated, monitored 24/7
+- Corporate Network (VLAN 20): Email, internet, administrative systems
+- Guest Network (VLAN 30): Patient/visitor WiFi — no access to clinical systems
+
+MEDICAL DEVICE INTEGRATION:
+- Patient Monitoring (Philips IntelliVue): Vitals auto-flow to Epic every 15 min
+- Infusion Pumps (BD Alaris): DERS (Drug Error Reduction Software) enabled; library updated quarterly
+- Glucometers (Roche Accu-Chek): Results transmitted to Epic via Bluetooth within 60 seconds
+- Ventilators (Puritan Bennett 980): Manual transcription to Epic; auto-integration roadmap Q3 2025
+
+IMAGING SYSTEMS:
+- PACS: Sectra (primary); Merge (legacy archive)
+- Diagnostic Workstations: EIZO calibrated monitors; re-calibrated every 6 months
+- Critical Result Turnaround: Radiologist to provider notification within 1 hour of read
+
+IT HELPDESK:
+- Phone: Extension 4357 (HELP) | External: (316) 268-4357
+- Hours: 24/7/365 for clinical systems; 7am–7pm M–F for administrative
+- Priority 1 (clinical system down): Response < 15 min
+- Priority 2 (degraded performance): Response < 1 hour
+- Priority 3 (non-urgent): Response < 4 hours business day

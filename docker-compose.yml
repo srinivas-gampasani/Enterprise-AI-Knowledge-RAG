@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  rag-api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: avc-rag-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data:/app/data
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-3.5-turbo}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-text-embedding-3-small}
+      - CHUNK_SIZE=${CHUNK_SIZE:-800}
+      - CHUNK_OVERLAP=${CHUNK_OVERLAP:-150}
+      - TOP_K_RETRIEVAL=${TOP_K_RETRIEVAL:-5}
+      - DOCS_PATH=data/documents
+      - FAISS_INDEX_PATH=data/faiss_index
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  rag-frontend:
+    image: nginx:alpine
+    container_name: avc-rag-frontend
+    ports:
+      - "3000:80"
+    volumes:
+      - ./frontend:/usr/share/nginx/html:ro
+    depends_on:
+      - rag-api
+    restart: unless-stopped

@@ -1,0 +1,147 @@
+ASCENSION VIA CHRISTI HEALTH — DRUG FORMULARY & PHARMACY REFERENCE
+Document ID: AVC-PHARM-002 | Version: 5.1 | Last Updated: February 2025
+Department: Pharmacy Services
+
+================================================================================
+ANTICOAGULATION MANAGEMENT
+================================================================================
+
+HEPARIN INFUSION PROTOCOL (Weight-Based):
+Initial Bolus: 80 units/kg IV (max 10,000 units)
+Initial Rate: 18 units/kg/hr (max 1,600 units/hr)
+
+aPTT ADJUSTMENT SCALE:
+- aPTT < 40 sec: Bolus 80 units/kg; increase rate by 4 units/kg/hr
+- aPTT 40–49 sec: Bolus 40 units/kg; increase rate by 2 units/kg/hr
+- aPTT 50–70 sec (THERAPEUTIC): No change
+- aPTT 71–90 sec: Decrease rate by 2 units/kg/hr
+- aPTT 91–120 sec: Hold 30 min; decrease rate by 3 units/kg/hr
+- aPTT > 120 sec: Hold 60 min; decrease rate by 4 units/kg/hr; notify provider
+
+MONITORING: aPTT every 6 hours until 2 consecutive therapeutic levels, then q12h
+Platelet count every 2 days (monitor for HIT — drop > 50% from baseline)
+
+--------------------------------------------------------------------------------
+
+WARFARIN DOSING GUIDANCE:
+- Standard initiation: 5mg PO daily for most patients
+- Reduced initiation: 2.5mg for age > 75, weight < 50kg, hepatic disease, CYP2C9 variants
+- INR monitoring: Daily while in hospital; weekly once stable outpatient
+- Target INR ranges:
+  * Atrial fibrillation / DVT / PE: 2.0–3.0
+  * Mechanical aortic valve: 2.0–3.0
+  * Mechanical mitral valve: 2.5–3.5
+  * Antiphospholipid syndrome: 2.5–3.5
+
+WARFARIN REVERSAL:
+- INR 4.5–10, no bleeding: Hold warfarin; supplement Vitamin K 1–2.5mg PO
+- INR > 10, no bleeding: Hold warfarin; Vitamin K 2.5–5mg PO; recheck 24h
+- Any INR, serious bleeding: 4-Factor PCC (Kcentra) + Vitamin K 10mg IV slow push
+
+--------------------------------------------------------------------------------
+
+DIRECT ORAL ANTICOAGULANTS (DOACs):
+
+Apixaban (Eliquis):
+- AF stroke prevention: 5mg PO BID (2.5mg BID if ≥ 2 of: age ≥ 80, weight ≤ 60kg, Cr ≥ 1.5)
+- VTE treatment: 10mg PO BID x7 days, then 5mg PO BID
+- Reversal agent: Andexanet alfa (Andexxa) — 400mg or 800mg IV bolus + infusion
+
+Rivaroxaban (Xarelto):
+- AF stroke prevention: 20mg PO daily with evening meal (15mg if CrCl 15–50)
+- VTE treatment: 15mg PO BID x21 days with meals, then 20mg PO daily
+- Reversal agent: Andexanet alfa
+
+Dabigatran (Pradaxa):
+- AF stroke prevention: 150mg PO BID (75mg BID if CrCl 15–30)
+- Reversal agent: Idarucizumab (Praxbind) 5g IV (two 2.5g vials)
+
+================================================================================
+PAIN MANAGEMENT LADDER
+================================================================================
+
+STEP 1 — MILD PAIN (NRS 1–3):
+- Acetaminophen 650–1000mg PO/IV q6h (max 4g/day; 2g/day hepatic disease)
+- Ibuprofen 400–600mg PO q6h with food (avoid if GFR < 30, GI bleed history)
+- Ketorolac 15–30mg IV/IM q6h (max 5 days; avoid if GFR < 30)
+
+STEP 2 — MODERATE PAIN (NRS 4–6):
+- Tramadol 50–100mg PO q6h (max 400mg/day; avoid with SSRI — serotonin syndrome risk)
+- Hydrocodone/acetaminophen 5mg/325mg PO q4–6h PRN (document PDMP check)
+- Oxycodone 5mg PO q4–6h PRN (document PDMP check)
+
+STEP 3 — SEVERE PAIN (NRS 7–10):
+- Morphine 2–4mg IV q3–4h PRN; PCA: 1–2mg demand, 6–10 min lockout
+- Hydromorphone 0.2–0.4mg IV q3–4h PRN; PCA: 0.1–0.2mg demand, 8 min lockout
+- Fentanyl 25–50 mcg IV q1h PRN (preferred for renal failure)
+
+OPIOID SAFETY REQUIREMENTS:
+- Naloxone must be prescribed and bedside for any patient on IV opioids
+- Naloxone dose: 0.4mg IV/IM/IN; may repeat q2–3 min x3; infusion at 2/3 effective dose/hr
+- Respiratory rate < 8 or SpO2 < 90% on opioids: administer naloxone, call rapid response
+
+================================================================================
+INSULIN MANAGEMENT
+================================================================================
+
+INPATIENT GLYCEMIC TARGETS:
+- ICU patients: 140–180 mg/dL
+- Non-ICU patients: 140–180 mg/dL (individualized; < 140 if surgical, < 200 if palliative)
+- Hypoglycemia threshold: < 70 mg/dL — treat immediately
+
+INSULIN INFUSION PROTOCOL (ICU only):
+Starting rate = Blood glucose / 100 (units/hr, rounded to nearest 0.5)
+- BG 140–180: No change
+- BG 181–220: Increase rate by 0.5 units/hr
+- BG > 220: Increase rate by 1 unit/hr
+- BG 70–109: Decrease rate by 50%; recheck in 30 min
+- BG < 70: Hold infusion; administer D50W 25mL IV; recheck in 15 min; notify MD
+
+SUBCUTANEOUS INSULIN — BASAL/BOLUS ORDERS:
+- Calculate Total Daily Dose (TDD): 0.4–0.5 units/kg/day for insulin-naive
+- Basal: 50% of TDD as Glargine (Lantus) or Detemir at bedtime
+- Nutritional: 50% of TDD divided as Aspart (NovoLog) with each meal
+- Correction scale: per pharmacy sliding scale based on TDD
+
+HIGH-ALERT INSULIN REMINDERS:
+- Two-nurse double-check required for all insulin drip rate changes
+- U-500 insulin: Order must state "U-500" explicitly; stored separately in Pyxis
+- Never abbreviate "Units" as "U" (mistaken as zero — use "units" in full)
+
+================================================================================
+CONTRAST MEDIA PREMEDICATION PROTOCOL
+================================================================================
+
+For patients with prior contrast reaction or high risk:
+- Methylprednisolone 32mg PO at 12h and 2h before procedure, OR
+- Prednisone 50mg PO at 13h, 7h, and 1h before procedure
+- PLUS Diphenhydramine 50mg IV/PO 1 hour before procedure
+- PLUS Famotidine 20mg IV 1 hour before procedure
+
+Renal protection (GFR < 45):
+- Hold Metformin 48 hours before and after IV contrast
+- IV Normal Saline 1 mL/kg/hr for 3–12 hours pre and post procedure
+- N-acetylcysteine 600mg PO BID day before and day of procedure
+
+================================================================================
+ANTIMICROBIAL STEWARDSHIP — TOP 10 RESTRICTIONS
+================================================================================
+
+RESTRICTED AGENTS (Require Infectious Disease approval or 72h automatic stop):
+
+1. Daptomycin — ID approval required; baseline CPK; weekly CPK monitoring
+2. Linezolid — ID approval; maximum 14 days; MAOI interaction screen required
+3. Caspofungin — ID approval; baseline LFTs; culture confirmation preferred
+4. Colistin/Polymyxin B — ID approval; strict renal dosing; daily Cr monitoring
+5. Ertapenem — 72h auto-stop; reassess culture data; avoid for Pseudomonas
+6. Meropenem — 72h auto-stop; reserve for MDR GN organisms; ID review
+7. Tigecycline — ID approval; high mortality signal in VAP; limited indications
+8. Voriconazole — ID approval; TDM required (trough 1–5.5 mcg/mL); LFTs weekly
+9. Vancomycin IV — pharmacy-managed AUC dosing; target AUC/MIC 400–600
+10. Azithromycin IV — 72h auto-stop; QTc monitoring required; ECG at baseline
+
+De-escalation criteria (review at 48–72 hours):
+- Culture results available and organism identified
+- Clinical improvement (fever curve, WBC trend, hemodynamic stability)
+- Switch to PO equivalent if patient tolerating oral medications
+- Document de-escalation rationale in antimicrobial stewardship note
