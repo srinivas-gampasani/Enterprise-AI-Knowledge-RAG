@@ -258,5 +258,5 @@ Use `gpt-4o` for highest accuracy on complex clinical questions.
 `Retrieval-Augmented Generation (RAG)` · `LangChain` · `FAISS` · `OpenAI GPT` · `text-embedding-3-small` · `FastAPI` · `Pydantic` · `Vector Search` · `Semantic Similarity` · `Python` · `Docker` · `HIPAA` · `Healthcare AI` · `Clinical NLP` · `Azure OpenAI`
 
 ---
-
-*Built by Srinivas Gampasani — Ascension Via Christi Health, AI & ML Engineering*
+**Built by Srinivas Gampasani | Data Scientist, Gen AI & ML Engineer | USA**  
+[LinkedIn](https://www.linkedin.com/in/srinivasgampasani/) · [GitHub](https://github.com/srinivas-gampasani)
